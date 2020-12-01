@@ -12,4 +12,4 @@ select
     populacao 
 from `estados`
 where populacao >= 10
-order by populacao;
+order by populacao desc;
